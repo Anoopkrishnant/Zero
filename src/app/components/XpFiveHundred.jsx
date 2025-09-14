@@ -52,7 +52,7 @@ export default function XpFiveHundred() {
         style={{
           width: 971.2,
           height: 970.91,
-          top: 70,
+          top: 54,
           opacity: 0.15,
           mixBlendMode: "plus-lighter",
         }}
